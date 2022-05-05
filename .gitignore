@@ -4,7 +4,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-*.html
 # C extensions
 *.so
 
@@ -139,3 +138,10 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+!/dice_rolls/d6.html
+
+!/dice_rolls/d6_d6.html
+
+!/dice_rolls/d6_d6_d6.html
+
+!/dice_rolls/d6_d10.html
