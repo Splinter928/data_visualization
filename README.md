@@ -1,2 +1,2 @@
 # data_visualization
-Some examples of using matplotlob and plotly.
+Some examples of using matplotlib and plotly.
