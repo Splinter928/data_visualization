@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\mapping_global_sets\data\world_fires_1_day.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
